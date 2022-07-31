@@ -41,6 +41,9 @@
 <li>Faça push para a sua branch: <code>git push origin minha-feature</code>.</li>
 </ul>
 <p>Depois que o merge da sua pull request for feito, você pode deletar a sua branch.</p>
+
+
+<p>Recomendo para usuarios e devs iniciantes, visualizarem o codigo, esta bem simples e alto explicativo</p>
 <hr>
 <p>Feito com ♥ by Rocketseat <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> <a href="https://discordapp.com/invite/gCRAFhc" rel="nofollow">Entre na nossa comunidade!</a></p>
 </article>
